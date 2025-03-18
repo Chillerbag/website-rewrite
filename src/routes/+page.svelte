@@ -8,7 +8,7 @@
 <div class="container mx-auto px-4 max-w-4xl">
     <header>
         <Navbar color='primary'>
-            <NavBrand href="/">
+            <NavBrand href="{base}/">
                 <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Ethan Hawkins</span>
             </NavBrand>
             <NavHamburger />
