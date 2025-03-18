@@ -31,7 +31,5 @@ header nav a:hover {
 
 header nav a.active {
   font-weight: bold;
-  text-decoration: underline;
-  border-bottom: 2px solid rgb(228, 0, 0);
 }
 
