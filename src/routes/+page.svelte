@@ -26,15 +26,18 @@
             <h2 class="text-2xl font-bold mb-4">About Me</h2>
             <p class="mb-4">
                 Hi there! I'm Ethan Hawkins. I'm a super passionate programmer always looking to build weird new things in new languages.
+                I recently graduated from the University of Melbourne in Dec 2024, and have spent all the time I'm not at work learning more about 
+                programming.
             </p>
             <p class="mb-4">
-                My technical skills include TypeScript / JavaScript, Rust, Haskell, C, SQL, Python, and a lot more!
-                I'm a huge language enthusiast, who likes studying programming language design and paradigms.
-
-                I'm always looking for new projects. I just wanna code! Reach out to me if you have any cool ideas :)
+                My technical skills include TypeScript / JavaScript, Rust, Haskell, C, C#, Java, SQL, Python, and a lot more!
+                I'm a huge language enthusiast, who likes studying programming language design and paradigms. I particularly enjoy
+                functional programming and low-level programming, but I also enjoy the rigor of OOP. 
+                <br><br>
+                I'm always on the hunt for new projects! If you wanna collaborate, please message me :).
             </p>
             <p class="mb-8">
-                If I'm not coding, you may find me rollerblading or playing games, but I'm always working on some project.
+                If I'm not coding, you may find me rollerblading or playing games!
             </p>
             <div class="flex flex-col items-center space-y-4">
                 <GradientButton href="https://github.com/Chillerbag" color="greenToBlue">
